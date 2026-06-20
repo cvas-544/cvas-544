@@ -4,7 +4,7 @@
 
 I'm an **AI builder** who ships production-grade systems - turning messy, real-world problems into reliable software that actually makes life easier. I work end-to-end: from the LLM orchestration layer down to the data, infra, and the guardrails that keep AI systems safe to ship.
 
-Lately I've been building agentic systems in the energy space, plus side projects that solve real problems. I care about doing it right, the last 20% that decides whether a demo survives production.
+Lately I've been building agentic systems in the energy space, plus side projects that solve real problems. I care about doing it right: the last 20% that decides whether a demo survives production.
 
 ## <img src="./assets/icons/star.svg" width="22" height="22" align="center" /> &nbsp;What I'm building
 
