@@ -26,11 +26,11 @@ Lately I've been building agentic systems with **FastAPI · LangChain / Deep Age
 ![AWS](https://img.shields.io/badge/AWS-191919?style=flat-square&logo=amazonwebservices&logoColor=FFFAEE)
 ![n8n](https://img.shields.io/badge/n8n-191919?style=flat-square&logo=n8n&logoColor=FFFAEE)
 
-## <img src="./assets/icons/globe.svg" width="22" height="22" align="center" /> &nbsp;Find me around the web
+## <img src="./assets/icons/dots.svg" width="22" height="22" align="center" /> &nbsp;Find me around the web
 
 <div align="center">
 
-[![Resources Hub](https://img.shields.io/badge/Resources_Hub-FE5102?style=for-the-badge&logo=vercel&logoColor=white)](https://vasuchukka-resources.vercel.app/)
+[![Resources Hub](https://img.shields.io/badge/Resources_Hub-191919?style=for-the-badge&logo=vercel&logoColor=FE5102)](https://vasuchukka-resources.vercel.app/)
 [![Substack](https://img.shields.io/badge/Substack-191919?style=for-the-badge&logo=substack&logoColor=FE5102)](https://substack.com/@vasuchukka)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-191919?style=for-the-badge&logo=linkedin&logoColor=FE5102)](https://www.linkedin.com/in/vasu-chukka-1a3569116/)
 [![Email](https://img.shields.io/badge/Email-191919?style=for-the-badge&logo=gmail&logoColor=FE5102)](mailto:chukka.vasu@outlook.com)
