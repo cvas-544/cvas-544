@@ -38,4 +38,4 @@ Lately I've been building agentic systems in the energy space, plus side project
 
 ---
 
-<div align="center"><sub>📍 Germany · Build. Grow. Serve.</sub></div>
+<div align="center"><sub>📍 Regensburg · Germany </sub></div>
