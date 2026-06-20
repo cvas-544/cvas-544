@@ -26,15 +26,6 @@ Lately I've been building agentic systems with **FastAPI · LangChain / Deep Age
 ![AWS](https://img.shields.io/badge/AWS-191919?style=flat-square&logo=amazonwebservices&logoColor=FFFAEE)
 ![n8n](https://img.shields.io/badge/n8n-191919?style=flat-square&logo=n8n&logoColor=FFFAEE)
 
-## <img src="./assets/icons/target.svg" width="22" height="22" align="center" /> &nbsp;GitHub stats
-
-<div align="center">
-
-![Vasu's GitHub stats](https://github-readme-stats.vercel.app/api?username=cvas-544&show_icons=true&hide_border=false&count_private=true&title_color=FE5102&icon_color=FE5102&text_color=FFFAEE&bg_color=191919&border_color=383838)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cvas-544&layout=compact&langs_count=8&hide_border=false&title_color=FE5102&text_color=FFFAEE&bg_color=191919&border_color=383838)
-
-</div>
-
 ## <img src="./assets/icons/globe.svg" width="22" height="22" align="center" /> &nbsp;Find me around the web
 
 <div align="center">
