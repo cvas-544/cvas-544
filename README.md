@@ -1,4 +1,4 @@
-<img src="./assets/banner.png" alt="Vasu Chukka — AI Builder" width="100%" />
+<img src="./assets/banner.png" alt="Vasu Chukka — Build. Grow. Serve." width="100%" />
 
 # Hi, I'm Vasu 👋
 
@@ -6,46 +6,46 @@ I'm an **AI builder** who ships production multi-agent systems — turning messy
 
 Lately I've been building agentic systems with **FastAPI · LangChain / Deep Agents · Claude & GPT-5 · PostgreSQL · React**, and authoring **Claude Code skills** that automate my own workflow. I care about doing it right — context-first development, EU AI Act compliance, and security/abuse audits *before* anything goes live.
 
-## 🚀 What I'm building
+## <img src="./assets/icons/star.svg" height="22" align="center" /> &nbsp;What I'm building
 
 - **[OpenToWork](https://github.com/cvas-544/OpenToWork)** — Self-hosted multi-agent job-intelligence system: n8n + Claude API + PostgreSQL + React dashboard.
 - **[finsense_ai](https://github.com/cvas-544/finsense_ai)** — Privacy-first personal-finance multi-agent system on the GAME framework: Claude AI, FastAPI, PostgreSQL (AWS RDS), native iOS app.
 - **beyondSnap** — E-commerce platform with AI-assisted product workflows. *(private repo)*
 
-## 🧰 Stack
+## <img src="./assets/icons/grid.svg" height="22" align="center" /> &nbsp;Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
+![Python](https://img.shields.io/badge/Python-191919?style=flat-square&logo=python&logoColor=FFFAEE)
+![FastAPI](https://img.shields.io/badge/FastAPI-191919?style=flat-square&logo=fastapi&logoColor=FFFAEE)
+![LangChain](https://img.shields.io/badge/LangChain-191919?style=flat-square&logo=langchain&logoColor=FFFAEE)
+![Claude](https://img.shields.io/badge/Claude-191919?style=flat-square&logo=anthropic&logoColor=FFFAEE)
+![OpenAI](https://img.shields.io/badge/OpenAI-191919?style=flat-square&logo=openai&logoColor=FFFAEE)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-191919?style=flat-square&logo=postgresql&logoColor=FFFAEE)
+![React](https://img.shields.io/badge/React-191919?style=flat-square&logo=react&logoColor=FFFAEE)
+![TypeScript](https://img.shields.io/badge/TypeScript-191919?style=flat-square&logo=typescript&logoColor=FFFAEE)
+![Docker](https://img.shields.io/badge/Docker-191919?style=flat-square&logo=docker&logoColor=FFFAEE)
+![AWS](https://img.shields.io/badge/AWS-191919?style=flat-square&logo=amazonwebservices&logoColor=FFFAEE)
+![n8n](https://img.shields.io/badge/n8n-191919?style=flat-square&logo=n8n&logoColor=FFFAEE)
 
-## 📊 GitHub stats
+## <img src="./assets/icons/target.svg" height="22" align="center" /> &nbsp;GitHub stats
 
 <div align="center">
 
-![Vasu's GitHub stats](https://github-readme-stats.vercel.app/api?username=cvas-544&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cvas-544&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+![Vasu's GitHub stats](https://github-readme-stats.vercel.app/api?username=cvas-544&show_icons=true&hide_border=false&count_private=true&title_color=FE5102&icon_color=FE5102&text_color=FFFAEE&bg_color=191919&border_color=383838)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cvas-544&layout=compact&langs_count=8&hide_border=false&title_color=FE5102&text_color=FFFAEE&bg_color=191919&border_color=383838)
 
 </div>
 
-## 🌐 Find me around the web
+## <img src="./assets/icons/globe.svg" height="22" align="center" /> &nbsp;Find me around the web
 
 <div align="center">
 
-[![Resources Hub](https://img.shields.io/badge/Resources_Hub-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vasuchukka-resources.vercel.app/)
-[![Substack](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://substack.com/@vasuchukka)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vasu-chukka-1a3569116/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chukka.vasu@outlook.com)
+[![Resources Hub](https://img.shields.io/badge/Resources_Hub-FE5102?style=for-the-badge&logo=vercel&logoColor=white)](https://vasuchukka-resources.vercel.app/)
+[![Substack](https://img.shields.io/badge/Substack-191919?style=for-the-badge&logo=substack&logoColor=FE5102)](https://substack.com/@vasuchukka)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-191919?style=for-the-badge&logo=linkedin&logoColor=FE5102)](https://www.linkedin.com/in/vasu-chukka-1a3569116/)
+[![Email](https://img.shields.io/badge/Email-191919?style=for-the-badge&logo=gmail&logoColor=FE5102)](mailto:chukka.vasu@outlook.com)
 
 </div>
 
 ---
 
-<div align="center"><sub>📍 Germany · Always shipping. Always with a human in the loop.</sub></div>
+<div align="center"><sub>📍 Germany · Build. Grow. Serve.</sub></div>
