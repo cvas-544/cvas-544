@@ -2,15 +2,14 @@
 
 # Hi, I'm Vasu 👋
 
-I'm an **AI builder** who ships production multi-agent systems — turning messy real-world problems into agents that plan, reason, and act with humans in the loop. I work end-to-end: from the LLM orchestration layer down to the data, infra, and the guardrails that keep it safe to ship.
+I'm an **AI builder** who ships production-grade systems - turning messy, real-world problems into reliable software that actually makes life easier. I work end-to-end: from the LLM orchestration layer down to the data, infra, and the guardrails that keep AI systems safe to ship.
 
-Lately I've been building agentic systems with **FastAPI · LangChain / Deep Agents · Claude & GPT-5 · PostgreSQL · React**, and authoring **Claude Code skills** that automate my own workflow. I care about doing it right — context-first development, EU AI Act compliance, and security/abuse audits *before* anything goes live.
+Lately I've been building agentic systems in the energy space, plus side projects that solve real problems. I care about doing it right, the last 20% that decides whether a demo survives production.
 
 ## <img src="./assets/icons/star.svg" width="22" height="22" align="center" /> &nbsp;What I'm building
 
-- **[OpenToWork](https://github.com/cvas-544/OpenToWork)** — Self-hosted multi-agent job-intelligence system: n8n + Claude API + PostgreSQL + React dashboard.
-- **[finsense_ai](https://github.com/cvas-544/finsense_ai)** — Privacy-first personal-finance multi-agent system on the GAME framework: Claude AI, FastAPI, PostgreSQL (AWS RDS), native iOS app.
-- **beyondSnap** — E-commerce platform with AI-assisted product workflows. *(private repo)*
+- **[OpenToWork](https://github.com/cvas-544/OpenToWork)** - Self-hosted multi-agent job-intelligence system.
+- **[finsense_ai](https://github.com/cvas-544/finsense_ai)** — Privacy-first personal-finance multi-agent system on the GAME framework.
 
 ## <img src="./assets/icons/grid.svg" width="22" height="22" align="center" /> &nbsp;Stack
 
