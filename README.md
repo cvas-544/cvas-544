@@ -6,13 +6,13 @@ I'm an **AI builder** who ships production multi-agent systems — turning messy
 
 Lately I've been building agentic systems with **FastAPI · LangChain / Deep Agents · Claude & GPT-5 · PostgreSQL · React**, and authoring **Claude Code skills** that automate my own workflow. I care about doing it right — context-first development, EU AI Act compliance, and security/abuse audits *before* anything goes live.
 
-## <img src="./assets/icons/star.svg" height="22" align="center" /> &nbsp;What I'm building
+## <img src="./assets/icons/star.svg" width="22" height="22" align="center" /> &nbsp;What I'm building
 
 - **[OpenToWork](https://github.com/cvas-544/OpenToWork)** — Self-hosted multi-agent job-intelligence system: n8n + Claude API + PostgreSQL + React dashboard.
 - **[finsense_ai](https://github.com/cvas-544/finsense_ai)** — Privacy-first personal-finance multi-agent system on the GAME framework: Claude AI, FastAPI, PostgreSQL (AWS RDS), native iOS app.
 - **beyondSnap** — E-commerce platform with AI-assisted product workflows. *(private repo)*
 
-## <img src="./assets/icons/grid.svg" height="22" align="center" /> &nbsp;Stack
+## <img src="./assets/icons/grid.svg" width="22" height="22" align="center" /> &nbsp;Stack
 
 ![Python](https://img.shields.io/badge/Python-191919?style=flat-square&logo=python&logoColor=FFFAEE)
 ![FastAPI](https://img.shields.io/badge/FastAPI-191919?style=flat-square&logo=fastapi&logoColor=FFFAEE)
@@ -26,7 +26,7 @@ Lately I've been building agentic systems with **FastAPI · LangChain / Deep Age
 ![AWS](https://img.shields.io/badge/AWS-191919?style=flat-square&logo=amazonwebservices&logoColor=FFFAEE)
 ![n8n](https://img.shields.io/badge/n8n-191919?style=flat-square&logo=n8n&logoColor=FFFAEE)
 
-## <img src="./assets/icons/target.svg" height="22" align="center" /> &nbsp;GitHub stats
+## <img src="./assets/icons/target.svg" width="22" height="22" align="center" /> &nbsp;GitHub stats
 
 <div align="center">
 
@@ -35,7 +35,7 @@ Lately I've been building agentic systems with **FastAPI · LangChain / Deep Age
 
 </div>
 
-## <img src="./assets/icons/globe.svg" height="22" align="center" /> &nbsp;Find me around the web
+## <img src="./assets/icons/globe.svg" width="22" height="22" align="center" /> &nbsp;Find me around the web
 
 <div align="center">
 
