@@ -8,7 +8,7 @@ Lately I've been building agentic systems in the energy space, plus side project
 
 ## <img src="./assets/icons/star.svg" width="22" height="22" align="center" /> &nbsp;What I'm building
 
-- **[OpenToWork](https://github.com/cvas-544/OpenToWork)** - Self-hosted multi-agent job-intelligence system.
+- **[OpenToWork](https://github.com/cvas-544/OpenToWork)** - Self-hosted multi-agent pipeline for job intelligence.
 - **[finsense_ai](https://github.com/cvas-544/finsense_ai)** — Privacy-first personal-finance multi-agent system on the GAME framework.
 
 ## <img src="./assets/icons/grid.svg" width="22" height="22" align="center" /> &nbsp;Stack
