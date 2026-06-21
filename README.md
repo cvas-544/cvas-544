@@ -25,6 +25,10 @@ Lately I've been building agentic systems in the energy space, plus side project
 ![AWS](https://img.shields.io/badge/AWS-191919?style=flat-square&logo=amazonwebservices&logoColor=FFFAEE)
 ![n8n](https://img.shields.io/badge/n8n-191919?style=flat-square&logo=n8n&logoColor=FFFAEE)
 
+## <img src="./assets/icons/grid.svg" width="22" height="22" align="center" /> &nbsp;This week I spent my time on
+
+<img src="./github-metrics.svg" alt="Languages I've recently worked with" width="100%" />
+
 ## <img src="./assets/icons/dots.svg" width="22" height="22" align="center" /> &nbsp;Find me around the web
 
 <div align="center">
